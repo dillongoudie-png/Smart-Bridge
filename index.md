@@ -1,4 +1,4 @@
-# Project Name Here
+# Automated Smart Bridge
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
@@ -78,6 +78,15 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
+| Arduino Uno R3 Kit | Provides basic components and wires for arduino and breadboard | $44.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_1_sspa?crid=2XMRZQLWWU48P&dib=eyJ2IjoiMSJ9._L3JiWgIo_Asrnpq9JBCAusLrjnyMbhZZFfeuGm_mo5U2SKqUrGwKWwQWBL8Bh2hODR3qGHLmVqeB02MM53KDXbDMT4F2tNy6-pJWA61X6PMLDUTh9lLm6dCZAXCSwX9p-vOqN-v9PktM9yTwXOb5sBPf6PIXH0ZyY7fhj9FKRWXHl7ssjfc_6E79vbgRdt1VrOvXcJaTQHMUhW1wbBcQwlHBRet1ZY_O34OtMq6vfk.fqeLeSLdRVAqbKiRvI05KfPNc_RW2RcK-c-KwznEXAU&dib_tag=se&keywords=ELEGOO+UNO+R3+Project+Most+Complete+Starter+Kit+with+Tutorial+Compatible+with+Arduino+IDE+%28200%2B+Components%29&nsdOptOutParam=true&qid=1782915405&sprefix=elegoo+uno+r3+project+most+complete+starter+kit+with+tutorial+compatible+with+arduino+ide+200%2B+components+%2Caps%2C195&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
