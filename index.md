@@ -45,13 +45,9 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_L0DmylsWw?si=6s-BIPYhw7kVViSL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+The intial development of the Automated Smart Bridge consists of a moisture sensor as an input as well as a servo motor, LED, and OLED display module as outputs. When the soil moisture sensor detects water, it sends a signal to the Arduino Uno R3 to move the servo motor arm 90°, to the LED to light up, and to the OLED display to render "Flood Alert." Thus far, I have not run into any technical problems, yet I plan to reconstruct the bridge to open outwards from both sides, but hopefully little issues persists. In addition to the modification of the bridge, I also intend to include a sensor that can detect if pedestrians or obstructions are on the bridge when it is supposed to be opening as well as a water distance monitor, that can change how the bridge moves, given the amount of flooded water.
 
 # Schematics 
 <img width="1082" height="747" alt="Screenshot 2026-07-06 at 8 39 22 AM" src="https://github.com/user-attachments/assets/0bda7194-1202-45af-a22f-99e0237a4a12" />
