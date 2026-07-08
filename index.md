@@ -1,7 +1,5 @@
 # Automated Smart Bridge
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
-
-The Automated Smart Bridge models a real-life crossbridge that can both permit vehicular transportation and open outwards as a safety precuation when flooding occurs. 
+The Automated Smart Bridge models a real-life crossbridge that can both permit vehicular transportation and open outwards as a safety precuation when flooding occurs. The bridge includes a plethora of features including street lights that illuminate when their surroundings dim, an invisible trip-wire that detects obstacles on the bridge, and an ultrasound sensor that detects changes in water level. Working on this project and navigating difficulties facilitated not only my critical thinking skills but also my creativity, enhancing my aptitude to think like an engineer.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
