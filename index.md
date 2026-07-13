@@ -50,8 +50,7 @@ For your second milestone, explain what you've worked on since your previous mil
 The intial development of the Automated Smart Bridge consists of a moisture sensor as an input as well as a servo motor, LED, and OLED display module as outputs. When the soil moisture sensor detects water, it sends a signal to the Arduino Uno R3 to move the servo motor arm 90°, to the LED to light up, and to the OLED display to render "Flood Alert." Thus far, I have not run into any technical problems, yet I plan to reconstruct the bridge to open outwards from both sides, but hopefully little issues persists. In addition to the modification of the bridge, I also intend to include a sensor that can detect if pedestrians or obstructions are on the bridge when it is supposed to be opening as well as a water distance monitor, that can change how the bridge moves, given the amount of flooded water.
 
 # Schematics 
-<img width="1082" height="747" alt="Screenshot 2026-07-06 at 8 39 22 AM" src="https://github.com/user-attachments/assets/0bda7194-1202-45af-a22f-99e0237a4a12" />
-
+<img width="754" height="503" alt="Screenshot 2026-07-13 at 8 33 32 AM" src="https://github.com/user-attachments/assets/76503973-5d42-44a2-b12e-3a99a6034a50" />
 
 # Code
 Arduino Uno R3
