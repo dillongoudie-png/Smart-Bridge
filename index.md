@@ -15,13 +15,11 @@ The Automated Smart Bridge models a real-life crossbridge that can both permit v
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug](https://www.youtube.com/embed/q_L0DmylsWw?si=51crw0dQSsmofGRf)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+Relative to the prior milestone, the development of the Smart Bridge consists of implementing new sensors to add safety features and resemble real-life bridges. 
 
-
+## New Components
++ Ultrasonic Sensor - I replaced the moisture sensor with the ultrasonic sensor with the intention of adjusting bridge mechanics based on the distance from water the ultrasonic sensor detected. However, This never persisted due to time constraints, although, the sensor will still detect water within 10cm of itself which yields the bridge to open.
++ 
 
 <!--# Second Milestone
 
@@ -122,9 +120,6 @@ void displayStatus(const char* message) {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
-
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Uno R3 Kit | Provides basic components and wires for arduino and breadboard | $44.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_1_sspa?crid=2XMRZQLWWU48P&dib=eyJ2IjoiMSJ9._L3JiWgIo_Asrnpq9JBCAusLrjnyMbhZZFfeuGm_mo5U2SKqUrGwKWwQWBL8Bh2hODR3qGHLmVqeB02MM53KDXbDMT4F2tNy6-pJWA61X6PMLDUTh9lLm6dCZAXCSwX9p-vOqN-v9PktM9yTwXOb5sBPf6PIXH0ZyY7fhj9FKRWXHl7ssjfc_6E79vbgRdt1VrOvXcJaTQHMUhW1wbBcQwlHBRet1ZY_O34OtMq6vfk.fqeLeSLdRVAqbKiRvI05KfPNc_RW2RcK-c-KwznEXAU&dib_tag=se&keywords=ELEGOO+UNO+R3+Project+Most+Complete+Starter+Kit+with+Tutorial+Compatible+with+Arduino+IDE+%28200%2B+Components%29&nsdOptOutParam=true&qid=1782915405&sprefix=elegoo+uno+r3+project+most+complete+starter+kit+with+tutorial+compatible+with+arduino+ide+200%2B+components+%2Caps%2C195&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)"> Link </a> |
@@ -141,9 +136,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Tape | Assembling Sensors and Wires to Bridge | $11.85 | <a href="https://www.amazon.com/Scotch-Dispensers-Applications-Invisible-Engineered/dp/B0000DH8HQ/ref=sr_1_9?crid=W66J93IGQXSI&dib=eyJ2IjoiMSJ9.ixLmCf6tW4oXHowuQXZTSfNKVAjhxH2RrnJqMMKkYGGDRkaJtWgJH0wxP4Iwh5gdU4AWH31WjjUQDQ25BuBe-X0ciR2Iu6LB47r1h5gL31vfj-xdXqSNgQVljetAO35z7WoWg8V2q6NSke4Koiu-FFaIUuuAhnzjOkGTmX2-LtgyUjd3boX8Z_9Df0fSADUqNtgagyl1CFX8g7m3DIiW5FHt7Qex55_1H9lBiDqLIxicz3ZqcwzrSlb_hOU5BgYmwCjmfeEGe75ISgGkHHqqdKgW3XvkA6on4sRTjEHAGvU.VY68i3b29A4Rt7w_qL9vef2yU7IzHfdkg25VQlq7two&dib_tag=se&keywords=tape&qid=1784124269&sprefix=tap%2Caps%2C181&sr=8-9&th=1"> Link </a> |
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example Project](https://www.instructables.com/Smart-Bridge-Using-Arduino-With-Auto-Height-Increa/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
