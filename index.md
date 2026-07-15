@@ -11,15 +11,15 @@ The Automated Smart Bridge models a real-life crossbridge that can both permit v
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug](https://www.youtube.com/embed/q_L0DmylsWw?si=51crw0dQSsmofGRf)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Relative to the prior milestone, the development of the Smart Bridge consists of implementing new sensors to add safety features and resemble real-life bridges. 
 
 ## New Components
 + **Ultrasonic Sensor** - I replaced the moisture sensor with the ultrasonic sensor with the intention of adjusting bridge mechanics based on the distance from water the ultrasonic sensor detected. However, This never persisted due to time constraints, although, the sensor will still detect water within 10cm of itself which yields the bridge to open.
-+ **Break-Beam Sensor** - <img width="754" height="503" alt="Screenshot 2026-07-15 at 7 21 53 AM" src="https://github.com/user-attachments/assets/c73fb6a5-02f6-4cf2-9512-9b4f8c35308e" />
++ **Break-Beam Sensor** - This pair was installed, so the bridge could detect if there is a pedestrian, vehicle, or other obstruction on the bridge that could render dangerous as the bridge draws open. If an obstruction is detected, the sensor overrides the rest of the circuit and immediately closes the bridge until the obstruction has been moved. The most difficult part of the installation of this pair was the mounting onto the bridge. I used a hole puncher and multiple pieces of cardboard to stand each sensor up on the bridge.
++ **Second Servo Motor** - Most bridges today draw outward, hence, to replicate this in my project, I cut the middle of the bridge with the thought process of having two servo motors on either end that open each regarded side of the bridge. Although, the arm of the servo motor was not long enough to open each end independently, so I conjoined a stick to the arm via tape. Now, each bridge opens 90 degrees.
++ **OLED Screen** - I used an OLED screen in the previous milestone, but with the addition of the break beam sensors, the OLED screen can now render "Wait: Car on Bridge" when there is a disruption in the invisible trip-wire.
 
 
 <!--# Second Milestone
@@ -43,7 +43,8 @@ For your second milestone, explain what you've worked on since your previous mil
 The intial development of the Automated Smart Bridge consists of a moisture sensor as an input as well as a servo motor, LED, and OLED display module as outputs. When the soil moisture sensor detects water, it sends a signal to the Arduino Uno R3 to move the servo motor arm 90°, to the LED to light up, and to the OLED display to render "Flood Alert." Thus far, I have not run into any technical problems, yet I plan to reconstruct the bridge to open outwards from both sides, but hopefully little issues persists. In addition to the modification of the bridge, I also intend to include a sensor that can detect if pedestrians or obstructions are on the bridge when it is supposed to be opening as well as a water distance monitor, that can change how the bridge moves, given the amount of flooded water.
 
 # Schematics 
-<img width="754" height="503" alt="Screenshot 2026-07-13 at 8 33 32 AM" src="https://github.com/user-attachments/assets/76503973-5d42-44a2-b12e-3a99a6034a50" />
+<img width="754" height="503" alt="Screenshot 2026-07-15 at 7 23 43 AM" src="https://github.com/user-attachments/assets/52c8f03f-6108-4f96-8f70-4b73c7ca867c" />
+
 
 # Code
 Arduino Uno R3
