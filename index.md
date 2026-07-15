@@ -18,8 +18,9 @@ The Automated Smart Bridge models a real-life crossbridge that can both permit v
 Relative to the prior milestone, the development of the Smart Bridge consists of implementing new sensors to add safety features and resemble real-life bridges. 
 
 ## New Components
-+ Ultrasonic Sensor - I replaced the moisture sensor with the ultrasonic sensor with the intention of adjusting bridge mechanics based on the distance from water the ultrasonic sensor detected. However, This never persisted due to time constraints, although, the sensor will still detect water within 10cm of itself which yields the bridge to open.
-+ 
++ **Ultrasonic Sensor** - I replaced the moisture sensor with the ultrasonic sensor with the intention of adjusting bridge mechanics based on the distance from water the ultrasonic sensor detected. However, This never persisted due to time constraints, although, the sensor will still detect water within 10cm of itself which yields the bridge to open.
++ **Break-Beam Sensor** - <img width="754" height="503" alt="Screenshot 2026-07-15 at 7 21 53 AM" src="https://github.com/user-attachments/assets/c73fb6a5-02f6-4cf2-9512-9b4f8c35308e" />
+
 
 <!--# Second Milestone
 
