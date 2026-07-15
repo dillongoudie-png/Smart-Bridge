@@ -5,8 +5,6 @@ The Automated Smart Bridge models a real-life crossbridge that can both permit v
 |:--:|:--:|:--:|:--:|
 | Dillon G | West Carer and Technical Academy | Structural Engineering | Incoming Senior
 
-<img width="1440" height="960" alt="E0C40D58-92DF-46D4-9BDE-828210F6C73A" src="https://github.com/user-attachments/assets/d285090e-0e42-4e88-829c-061b0483e5e1" />
-
 <img src="https://github.com/user-attachments/assets/d285090e-0e42-4e88-829c-061b0483e5e1" alt="Smart Bridge Project" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 
   
