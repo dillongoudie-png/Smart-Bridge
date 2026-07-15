@@ -137,6 +137,6 @@ void displayStatus(const char* message) {
 
 # Other Resources/Examples
 - [Example Project](https://www.instructables.com/Smart-Bridge-Using-Arduino-With-Auto-Height-Increa/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+- [Ultrasonic Sensor](https://sviatil0.github.io/Sviatoslav_BSE/](https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1))
+- [Break Beam Sensor](https://arneshkumar.github.io/arneshbluestamp/](https://learn.adafruit.com/ir-breakbeam-sensors/arduino))
 
