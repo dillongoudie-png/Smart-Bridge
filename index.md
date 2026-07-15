@@ -7,7 +7,8 @@ The Automated Smart Bridge models a real-life crossbridge that can both permit v
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+<img width="1440" height="960" alt="E0C40D58-92DF-46D4-9BDE-828210F6C73A" src="https://github.com/user-attachments/assets/d285090e-0e42-4e88-829c-061b0483e5e1" />
+
   
 # Final Milestone
 
