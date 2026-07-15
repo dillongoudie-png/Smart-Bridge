@@ -118,6 +118,7 @@ void displayStatus(const char* message) {
 ```
 
 # Bill of Materials
+
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Uno R3 Kit | Provides basic components and wires for arduino and breadboard | $44.99 | [Link](https://www.amazon.com/dp/B008GRTSV6/) |
