@@ -10,7 +10,7 @@ The Automated Smart Bridge models a real-life crossbridge that can both permit v
   
 # Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug](https://www.youtube.com/embed/q_L0DmylsWw?si=51crw0dQSsmofGRf)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AnuohnbM69U?si=LVP5NC9T2S9nbt0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Relative to the prior milestone, the development of the Smart Bridge consists of implementing new sensors to add safety features and resemble real-life bridges. 
 
