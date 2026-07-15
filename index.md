@@ -1,11 +1,11 @@
 # Automated Smart Bridge
 The Automated Smart Bridge models a real-life crossbridge that can both permit vehicular transportation and open outwards as a safety precuation when flooding occurs. The bridge includes a plethora of features including street lights that illuminate when their surroundings dim, an invisible trip-wire that detects obstacles on the bridge, and an ultrasound sensor that detects changes in water level. Working on this project and navigating difficulties facilitated not only my critical thinking skills but also my creativity, enhancing my aptitude to think like an engineer.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
+<!--You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions: -->
+```HTML
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
-```
+``` 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
